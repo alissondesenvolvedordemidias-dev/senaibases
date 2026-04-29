@@ -1,0 +1,17 @@
+body{ 
+    background-color:antiquewhite;
+}
+
+output{
+    background-color: rgb(78, 106, 231);
+    color: #fcfcfc;
+    font-family: 'Courier New', ;
+    font-size: larger;
+}
+button{
+    background-color: rgb(78, 106, 231);
+    color: aliceblue;
+    padding: 12px;
+    border-radius: 12px;
+    border: none;
+}
